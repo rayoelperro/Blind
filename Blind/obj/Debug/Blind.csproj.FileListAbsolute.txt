@@ -1,0 +1,6 @@
+D:\Proyectos\VisualStudio\Blind\Blind\bin\Debug\Blind.exe.config
+D:\Proyectos\VisualStudio\Blind\Blind\bin\Debug\Blind.exe
+D:\Proyectos\VisualStudio\Blind\Blind\bin\Debug\Blind.pdb
+D:\Proyectos\VisualStudio\Blind\Blind\obj\Debug\Blind.csprojResolveAssemblyReference.cache
+D:\Proyectos\VisualStudio\Blind\Blind\obj\Debug\Blind.exe
+D:\Proyectos\VisualStudio\Blind\Blind\obj\Debug\Blind.pdb
